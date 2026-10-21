@@ -1,0 +1,6 @@
+{
+  "name": "Hồ Sơ Nhân Vật — Thư Viện Lưu Trữ & Chọn Nhân Vật",
+  "description": "Thư viện chọn nhân vật tương tác với hồ sơ chi tiết gồm tên, tiểu sử (backstory), tin nhắn mở đầu (opening message) và đường dẫn nhân vật (character link).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
